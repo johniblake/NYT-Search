@@ -33,7 +33,7 @@ header {
 h5 {
     font-weight: bold;
     font-size: 1rem;
-    background-color: lavender;
+    background-color: gainsboro;
     margin-top: 0;
 }
 
@@ -44,4 +44,11 @@ span {
 
 form {
     margin: 20px;
+}
+button {
+    margin-left:20px;
+    margin-bottom: 20px;
+}
+.textbox {
+    width: 95%;
 }
