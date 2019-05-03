@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+header {
+    font-size: 1.2rem;
+    height: 140px;
+    background-color: darkblue;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#search-form,
+#article-container {
+    border: 1px solid lightgray;
+    margin-top: 30px;
+    padding-top: 0px;
+
+}
+
+.labels {
+    line-height: 2.2;
+}
+
+h5 {
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: lavender;
+    margin-top: 0;
+}
+
+span {
+    padding-left: 20px;
+    line-height: 2.8;
+}
+
+form {
+    margin: 20px;
+}
